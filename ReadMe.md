@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Olá, sou o Charles 👋
  💻 Front-End Developer <br> 🎓  BS in Information Systems <br> 
 
 
