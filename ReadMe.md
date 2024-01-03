@@ -1,5 +1,5 @@
 # Olá, sou o Charles 👋
- 💻 Front-End Developer <br> 🎓  BS in Information Systems <br> 
+ 💻 Front-End Developer <br> 🎓  Bacharel em Sistemas de Informação <br> 
 
 
 ## 🌐 Socials:
