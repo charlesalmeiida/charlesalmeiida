@@ -1,6 +1,5 @@
 # Sobre mim:
-💻 Desenvolvedor Front-end <br>🎓 Graduado em Sistemas de Informação<br>🧰 Desenvolvo aplicações com: Next.js, React, Tailwind, JavaScript, TypeScript<br> 🔗 Conheça meu <a target="_blank" href="https://portfolio-charlesalmeiida.vercel.app/">portfólio</a>
-
+💻 Desenvolvedor na @insany.co <br>🎓 Graduado em Sistemas de Informação<br>🧰 Desenvolvo aplicações com: Next.js, React, Tailwind, JavaScript, TypeScript<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesalmeiida) 
